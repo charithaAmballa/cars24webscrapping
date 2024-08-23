@@ -45,4 +45,3 @@ Disclaimer
 This scraper is intended for educational purposes only. Please ensure you comply with the terms of service of Cars24.com and use this tool responsibly.
 Contact
 For any questions or issues, feel free to reach out via email charitha.jobmail@gmail.com
-EMI per month
